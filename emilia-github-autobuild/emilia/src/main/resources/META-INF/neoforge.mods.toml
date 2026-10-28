@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="emilia"
+version="1.0.0"
+displayName="Emilia: Spirit Arts"
+description='''
+Emilia's ice magic from Re:Zero: Puck's contract, ice spirit arts, frost walking and Absolute Zero.
+Unofficial fan mod.
+'''
+
+[[dependencies.emilia]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.emilia]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"

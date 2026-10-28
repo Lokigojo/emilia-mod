@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SDS",
+    "DND",
+    "SDS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:snowball"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "id": "emilia:puck_crystal",
+    "count": 1
+  }
+}
